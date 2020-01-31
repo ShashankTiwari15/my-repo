@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+F:\Logger\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\455072361.index
+\Flipkart-web\src\main\resources
